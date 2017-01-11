@@ -1,0 +1,8 @@
+title: google-api-nodejs-client
+description: Google's officially supported Node.js client library for using Google APIs. Support for authorization and authentication with OAuth 2.0, API Keys and JWT (Service Tokens) is included.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
