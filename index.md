@@ -2,7 +2,8 @@
 
 ### google-api-nodejs-client API Reference Docs
 
-* [v18.1.0 (latest)](http://google.github.io/google-api-nodejs-client/18.1.0/index.html)
+* [v19.0.0 (latest)](http://google.github.io/google-api-nodejs-client/19.0.0/index.html)
+* [v18.1.0](http://google.github.io/google-api-nodejs-client/18.1.0/index.html)
 * [v18.0.0](http://google.github.io/google-api-nodejs-client/18.0.0/index.html)
 * [v16.1.0](http://google.github.io/google-api-nodejs-client/16.1.0/index.html)
 * [v14.0.0](http://google.github.io/google-api-nodejs-client/14.0.0/index.html)
